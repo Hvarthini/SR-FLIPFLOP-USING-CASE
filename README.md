@@ -42,7 +42,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![pic1](https://github.com/user-attachments/assets/b5150ea7-2ec4-4274-9824-2375757a202d)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![pic2](https://github.com/user-attachments/assets/132f6867-7732-4d0e-86e1-9f8adcdbb46c)
 
 **RESULTS**
+Thus the sr flipflop is verified in quartus.
